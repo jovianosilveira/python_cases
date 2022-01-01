@@ -17,7 +17,6 @@ Professor de cursos de Excel, Power Query, Power BI, SQL, Python, e Orçamento E
 
 Após anos de trabalho nas áreas de auditoria, consultoria, controles internos e controladoria, implemento meu conhecimento em maximizar o uso ferramentas de análise de dados para gerar otimizações e melhores controles nas organizações, aumentando assim seu resultado, com menor custo possível.
 
-**Conhecimentos em:** Power BI (Power Query, DAX), Excel, VBA, Python, SQL e Contabilidade.
 
 ## Projetos:
 
