@@ -4,8 +4,6 @@
 [![](https://img.shields.io/badge/Instagram-blueviolet.svg)](https://www.instagram.com/jovi.silveira/)
 [![](https://img.shields.io/badge/Cursos-CONFIRA-sucess.svg)](https://joviano.com/cursos-para-voce)
 
-
-
-| Name | Examples |
-| --- | --- |
-| Site | ![Custom badge](https://youtube.com/jovianosilveira) |
+<p align="center">
+  <img src="banner.png" >
+</p>
