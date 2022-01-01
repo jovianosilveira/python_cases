@@ -1,8 +1,7 @@
 [![](https://img.shields.io/badge/Autor-Joviano_Silveira-red.svg)](https://www.joviano.com/)
-[![](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
-[![](https://img.shields.io/badge/P-blue.svg)](https://www.python.org/)
-
-[![](https://img.shields.io/youtube/channel/views/JovianoSilveira?style=social)](https://www.python.org/)
+[![](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/jovianosilveira/)
+[![](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/jovianosilveira)
+[![](https://img.shields.io/badge/Instagram-blueviolet.svg)](https://www.instagram.com/jovi.silveira/)
 
 
 
