@@ -8,7 +8,7 @@
   <img src="banner.png" >
 </p>
 
-# Joviano SIlveira
+# Joviano Silveira
 <sub>*Contador e Cientista de Dados*</sub>
 
 Contador com mais de 15 anos de experiência na área. Pós graduado em finanças e controladoria atualmente  Controller na Wanke SA. 
@@ -17,4 +17,8 @@ Professor de cursos de Excel, Power Query, Power BI, SQL, Python, e Orçamento E
 
 Após anos de trabalho nas áreas de auditoria, consultoria, controles internos e controladoria, implemento meu conhecimento em maximizar o uso ferramentas de análise de dados para gerar otimizações e melhores controles nas organizações, aumentando assim seu resultado, com menor custo possível.
 
-**Background in:** Power BI (Power Query, DAX), Excel, VBA, Python, SQL e Contabilidade.
+**Conhecimentos em:** Power BI (Power Query, DAX), Excel, VBA, Python, SQL e Contabilidade.
+
+## Projetos:
+
+Nesta página você consegue visualizar os projetos de Data Science com Python que elaborei, e disponibilizo o código fonte para que você possa replicar.
